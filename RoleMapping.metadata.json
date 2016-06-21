@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"gatey.RoleMapping"},{"v":1,"key":{"roleId":1.0},"name":"roleId_1","ns":"gatey.RoleMapping"},{"v":1,"key":{"principalId":1.0},"name":"principalId_1","ns":"gatey.RoleMapping"},{"v":1,"key":{"principalId":1.0,"roleId":1.0},"name":"principalId_1_roleId_1","ns":"gatey.RoleMapping","Unique":true}]}

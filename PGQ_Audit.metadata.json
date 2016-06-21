@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"gatey.PGQ_Audit"},{"v":1,"key":{"event":1.0,"userId":1.0},"name":"event_1_userId_1","ns":"gatey.PGQ_Audit"},{"v":1,"key":{"event":1.0,"userId":1.0,"created":1.0},"name":"event_1_userId_1_created_1","ns":"gatey.PGQ_Audit"}]}
